@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+title: "Code for: Indirect reciprocity beyond pairwise interactions"
+message: "If you use this code, please cite the associated paper and software archive."
+type: software
+authors:
+  - family-names: Wei
+    given-names: Ming
+  - family-names: Wang
+    given-names: Xin
+  - family-names: Lu
+    given-names: Junyu
+  - family-names: Liu
+    given-names: Longzhao
+  - family-names: Jiang
+    given-names: Yishen
+  - family-names: Zheng
+    given-names: Hongwei
+  - family-names: Tang
+    given-names: Shaoting
+  - family-names: Fu
+    given-names: Feng
+repository-code: "https://github.com/RoyWey1998/IRBP"
+abstract: "This repository contains MATLAB scripts, Maple worksheets and Python scripts used for the numerical analyses, symbolic calculations and large language model experiments in the study 'Indirect reciprocity beyond pairwise interactions'."
+keywords:
+  - indirect reciprocity
+  - evolutionary game theory
+  - reputation dynamics
+  - public goods games
+  - social norms
+  - cooperative AI
+license: MIT
